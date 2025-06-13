@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Língua inglesa',
+    'Qual a relação entre as palavras Willingly e Unwillingly?',
+    'São antônimos, sendo Willingly algo feito de bom grado, e Unwillingly algo feito involuntariamente.'
 )
 
 criaCartao(
