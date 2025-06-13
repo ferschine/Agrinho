@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual a condição de existência de uma Função Logarítmica?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O valor da base deve ser x>0 e o valor do logaritmando deve ser x>0 e x≠1.'
 )
 
 criaCartao(
@@ -23,14 +23,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Filosofia',
+    'O que é o Estoicismo?',
+    'É a busca pela felicidade e paz concentrando-se somente no que você pode fazer, buscando não se preocupar com o externo que foge de seu controle.'
 )
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Arte',
+    'Quando o Modernismo teve início no Brasil?',
+    'Em 1922, tendo início com a Semana da Arte Moderna'
 )
