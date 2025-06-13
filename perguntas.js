@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Quantos presidentes o Brasil já teve?',
+    '36 presidentes, totalizando 41 presidências.'
 )
 
 criaCartao(
