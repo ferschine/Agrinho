@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Linguagens',
+    'O que é um distrator?',
+    'Os distratores são alternativas de vestibulares que parecem plausíveis, mas que são a alternativa incorreta.'
 )
 
 criaCartao(
